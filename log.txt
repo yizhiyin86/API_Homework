@@ -1,1200 +1,1200 @@
-Processing record of 1 | Kruisfontein 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kruisfontein,za
-Processing record of 2 | Domoni 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=domoni,km
-Processing record of 3 | Alta Floresta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alta floresta,br
-Processing record of 4 | Pitsunda 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pitsunda,ge
-Processing record of 5 | Port Elizabeth 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port elizabeth,za
-Processing record of 6 | Santa Maria 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santa maria,cv
-Processing record of 7 | Arraial do Cabo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=arraial do cabo,br
-Processing record of 8 | Dikson 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dikson,ru
-Processing record of 9 | Ushuaia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ushuaia,ar
-Processing record of 10 | Novopokrovka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=novopokrovka,ru
-Processing record of 11 | Thompson 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=thompson,ca
-Processing record of 12 | Port Alfred 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port alfred,za
-Processing record of 13 | Barrow 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=barrow,us
-Processing record of 14 | Mosquera 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mosquera,co
-Processing record of 15 | Chuy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chuy,uy
-Processing record of 16 | Trinidad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=trinidad,co
-Processing record of 17 | Chernyshevskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chernyshevskiy,ru
-Processing record of 18 | Port Said 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port said,eg
-Processing record of 19 | Saint-Joseph 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-joseph,re
-Processing record of 20 | Yellowknife 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yellowknife,ca
-Processing record of 21 | Bredasdorp 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bredasdorp,za
-Processing record of 22 | Punta Arenas 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=punta arenas,cl
-Processing record of 23 | Haikou 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=haikou,cn
-Processing record of 24 | Hithadhoo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hithadhoo,mv
-Processing record of 25 | Dukat 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dukat,ru
-Processing record of 26 | Hamilton 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hamilton,bm
-Processing record of 27 | Wanning 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wanning,cn
-Processing record of 28 | Saint-Pierre 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-pierre,re
-Processing record of 29 | Susanville 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=susanville,us
-Processing record of 30 | Pierre 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pierre,us
-Processing record of 31 | Lagoa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lagoa,pt
-Processing record of 32 | Albany 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=albany,au
-Processing record of 33 | Coihaique 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coihaique,cl
-Processing record of 34 | Hilo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hilo,us
-Processing record of 35 | Busselton 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=busselton,au
-Processing record of 36 | Santiago del Estero 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santiago del estero,ar
-Processing record of 37 | Saskylakh 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saskylakh,ru
-Processing record of 38 | Touros 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=touros,br
-Processing record of 39 | Torbay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=torbay,ca
-Processing record of 40 | Atuona 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=atuona,pf
-Processing record of 41 | Rikitea 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rikitea,pf
-Processing record of 42 | East London 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=east london,za
-Processing record of 43 | Baghdad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baghdad,iq
-Processing record of 44 | Provideniya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=provideniya,ru
-Processing record of 45 | Coahuayana 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coahuayana,mx
-Processing record of 46 | Souillac 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=souillac,mu
-Processing record of 47 | Puerto Ayora 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto ayora,ec
-Processing record of 48 | Cabo San Lucas 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cabo san lucas,mx
-Processing record of 49 | Castro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=castro,cl
-Processing record of 50 | Bonavista 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bonavista,ca
-Processing record of 51 | Saint-Philippe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-philippe,re
-Processing record of 52 | New Norfolk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=new norfolk,au
-Processing record of 53 | Abay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abay,kz
-Processing record of 54 | Xingcheng 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xingcheng,cn
-Processing record of 55 | Bilibino 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bilibino,ru
-Processing record of 56 | Lompoc 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lompoc,us
-Processing record of 57 | Namatanai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namatanai,pg
-Processing record of 58 | Yenagoa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yenagoa,ng
-Processing record of 59 | Chiredzi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chiredzi,zw
-Processing record of 60 | Upernavik 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=upernavik,gl
-Processing record of 61 | Mbini 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mbini,gq
-Processing record of 62 | Cape Town 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cape town,za
-Processing record of 63 | Jamestown 
+Processing record of 1 | yanam 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yanam,in
+Processing record of 2 | neyshabur 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=neyshabur,ir
+Processing record of 3 | jamestown 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jamestown,sh
-Processing record of 64 | Mar del Plata 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mar del plata,ar
-Processing record of 65 | Plettenberg Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=plettenberg bay,za
-Processing record of 66 | Teya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=teya,ru
-Processing record of 67 | Kudat 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kudat,my
-Processing record of 68 | Waingapu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=waingapu,id
-Processing record of 69 | Severo-Kurilsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=severo-kurilsk,ru
-Processing record of 70 | Bhag 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bhag,pk
-Processing record of 71 | Sao Miguel do Araguaia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao miguel do araguaia,br
-Processing record of 72 | Katherine 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=katherine,au
-Processing record of 73 | Esperance 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=esperance,au
-Processing record of 74 | Lake City 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lake city,us
-Processing record of 75 | Krasnofarfornyy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=krasnofarfornyy,ru
-Processing record of 76 | Hasaki 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hasaki,jp
-Processing record of 77 | Los Llanos de Aridane 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=los llanos de aridane,es
-Processing record of 78 | Dudinka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dudinka,ru
-Processing record of 79 | Nikolskoye 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nikolskoye,ru
-Processing record of 80 | Kikwit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kikwit,cd
-Processing record of 81 | North Platte 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=north platte,us
-Processing record of 82 | Ligayan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ligayan,ph
-Processing record of 83 | Havoysund 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=havoysund,no
-Processing record of 84 | Port Lincoln 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port lincoln,au
-Processing record of 85 | Alugan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alugan,ph
-Processing record of 86 | Rurrenabaque 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rurrenabaque,bo
-Processing record of 87 | Port Hardy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port hardy,ca
-Processing record of 88 | Yuba City 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yuba city,us
-Processing record of 89 | Bethel 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bethel,us
-Processing record of 90 | Ponta do Sol 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ponta do sol,cv
-Processing record of 91 | Ust-Nera 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ust-nera,ru
-Processing record of 92 | Faanui 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=faanui,pf
-Processing record of 93 | Marawi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=marawi,sd
-Processing record of 94 | Oranjemund 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oranjemund,na
-Processing record of 95 | Ormara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ormara,pk
-Processing record of 96 | Nizhniy Odes 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nizhniy odes,ru
-Processing record of 97 | Kaimganj 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaimganj,in
-Processing record of 98 | Buraydah 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=buraydah,sa
-Processing record of 99 | Atambua 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=atambua,id
-Processing record of 100 | Namibe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namibe,ao
-Processing record of 101 | Geraldton 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=geraldton,au
-Processing record of 102 | Pevek 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pevek,ru
-Processing record of 103 | Maragogi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maragogi,br
-Processing record of 104 | Champaign 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=champaign,us
-Processing record of 105 | Hermanus 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hermanus,za
-Processing record of 106 | Guerrero Negro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=guerrero negro,mx
-Processing record of 107 | Luena 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luena,ao
-Processing record of 108 | Acapulco 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=acapulco,mx
-Processing record of 109 | Luganville 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luganville,vu
-Processing record of 110 | Avarua 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=avarua,ck
-Processing record of 111 | Nantucket 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nantucket,us
-Processing record of 112 | Comodoro Rivadavia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=comodoro rivadavia,ar
-Processing record of 113 | Kota Tinggi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kota tinggi,my
-Processing record of 114 | Tahta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tahta,eg
-Processing record of 115 | Butaritari 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=butaritari,ki
-Processing record of 116 | Wadi Musa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wadi musa,jo
-Processing record of 117 | Fernie 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fernie,ca
-Processing record of 118 | Vaini 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vaini,to
-Processing record of 119 | Vinh 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vinh,vn
-Processing record of 120 | Kapaa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kapaa,us
-Processing record of 121 | Kodiak 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kodiak,us
-Processing record of 122 | Luorong 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luorong,cn
-Processing record of 123 | Sitka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sitka,us
-Processing record of 124 | Port-Cartier 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port-cartier,ca
-Processing record of 125 | Ahuimanu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ahuimanu,us
-Processing record of 126 | Clyde River 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=clyde river,ca
-Processing record of 127 | Puerto Escondido 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto escondido,mx
-Processing record of 128 | Peniche 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=peniche,pt
-Processing record of 129 | Inhambane 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=inhambane,mz
-Processing record of 130 | Praia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=praia,cv
-Processing record of 131 | Dubai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dubai,ae
-Processing record of 132 | Rio Grande 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rio grande,br
-Processing record of 133 | Barguzin 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=barguzin,ru
-Processing record of 134 | Bolobo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bolobo,cd
-Processing record of 135 | Isangel 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=isangel,vu
-Processing record of 136 | Praya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=praya,id
-Processing record of 137 | Balud 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=balud,ph
-Processing record of 138 | Bambous Virieux 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bambous virieux,mu
-Processing record of 139 | Shimanovsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shimanovsk,ru
-Processing record of 140 | Flin Flon 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=flin flon,ca
-Processing record of 141 | Palmer 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=palmer,us
-Processing record of 142 | Longyearbyen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=longyearbyen,sj
-Processing record of 143 | Tuktoyaktuk 
+Processing record of 4 | mitsamiouli 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mitsamiouli,km
+Processing record of 5 | tuktoyaktuk 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tuktoyaktuk,ca
-Processing record of 144 | Gorontalo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=gorontalo,id
-Processing record of 145 | Hobart 
+Processing record of 6 | hobart 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hobart,au
-Processing record of 146 | Maceio 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maceio,br
-Processing record of 147 | Half Moon Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=half moon bay,us
-Processing record of 148 | Progreso 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=progreso,mx
-Processing record of 149 | Tasiilaq 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tasiilaq,gl
-Processing record of 150 | Nouadhibou 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nouadhibou,mr
-Processing record of 151 | Najran 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=najran,sa
-Processing record of 152 | Stettler 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=stettler,ca
-Processing record of 153 | Victoria 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=victoria,sc
-Processing record of 154 | Oksfjord 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oksfjord,no
-Processing record of 155 | Bontang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bontang,id
-Processing record of 156 | Nome 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nome,us
-Processing record of 157 | Kahta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kahta,tr
-Processing record of 158 | Lugovoy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lugovoy,ru
-Processing record of 159 | Guilin 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=guilin,cn
-Processing record of 160 | Jalu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jalu,ly
-Processing record of 161 | Iqaluit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=iqaluit,ca
-Processing record of 162 | Ariquemes 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ariquemes,br
-Processing record of 163 | Haines Junction 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=haines junction,ca
-Processing record of 164 | Tchibanga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tchibanga,ga
-Processing record of 165 | Tarko-Sale 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tarko-sale,ru
-Processing record of 166 | Polysayevo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=polysayevo,ru
-Processing record of 167 | Zhigansk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zhigansk,ru
-Processing record of 168 | Kisangani 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kisangani,cd
-Processing record of 169 | Okhotsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=okhotsk,ru
-Processing record of 170 | Ancud 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ancud,cl
-Processing record of 171 | Cazones 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cazones,mx
-Processing record of 172 | Ust-Ilimsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ust-ilimsk,ru
-Processing record of 173 | Vostok 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vostok,ru
-Processing record of 174 | Ngama 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ngama,td
-Processing record of 175 | Sinnamary 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sinnamary,gf
-Processing record of 176 | Estelle 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=estelle,us
-Processing record of 177 | Churachandpur 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=churachandpur,in
-Processing record of 178 | Santo Antonio do Leverger 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santo antonio do leverger,br
-Processing record of 179 | Le Vauclin 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=le vauclin,mq
-Processing record of 180 | Fort Walton Beach 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fort walton beach,us
-Processing record of 181 | Norman Wells 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=norman wells,ca
-Processing record of 182 | Lincoln 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lincoln,ar
-Processing record of 183 | Kinsale 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kinsale,ie
-Processing record of 184 | Rockland 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rockland,us
-Processing record of 185 | Hayden 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hayden,us
-Processing record of 186 | Tateyama 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tateyama,jp
-Processing record of 187 | Kaeo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaeo,nz
-Processing record of 188 | Auki 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=auki,sb
-Processing record of 189 | Hovd 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hovd,mn
-Processing record of 190 | Kijang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kijang,id
-Processing record of 191 | Saint-Francois 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-francois,gp
-Processing record of 192 | Ribeira Grande 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ribeira grande,pt
-Processing record of 193 | Dholka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dholka,in
-Processing record of 194 | Brainerd 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=brainerd,us
-Processing record of 195 | Bluff 
+Processing record of 7 | cape town 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cape town,za
+Processing record of 8 | bluff 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bluff,nz
-Processing record of 196 | Baruun-Urt 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baruun-urt,mn
-Processing record of 197 | Dingle 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dingle,ie
-Processing record of 198 | Suntar 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=suntar,ru
-Processing record of 199 | Tshikapa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tshikapa,cd
-Processing record of 200 | Grand-Santi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grand-santi,gf
-Processing record of 201 | Celestun 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=celestun,mx
-Processing record of 202 | Saint George 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint george,bm
-Processing record of 203 | Frome 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=frome,gb
-Processing record of 204 | Idrinskoye 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=idrinskoye,ru
-Processing record of 205 | Guarapari 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=guarapari,br
-Processing record of 206 | Coos Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coos bay,us
-Processing record of 207 | La Ronge 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la ronge,ca
-Processing record of 208 | Sorong 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sorong,id
-Processing record of 209 | Kaitangata 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaitangata,nz
-Processing record of 210 | Taoudenni 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=taoudenni,ml
-Processing record of 211 | San 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san,ml
-Processing record of 212 | Cidreira 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cidreira,br
-Processing record of 213 | Padang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=padang,id
-Processing record of 214 | Qinnan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qinnan,cn
-Processing record of 215 | Anadyr 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=anadyr,ru
-Processing record of 216 | Korla 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=korla,cn
-Processing record of 217 | Muros 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muros,es
-Processing record of 218 | Salalah 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=salalah,om
-Processing record of 219 | Zabol 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zabol,ir
-Processing record of 220 | Atasu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=atasu,kz
-Processing record of 221 | Pryazha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pryazha,ru
-Processing record of 222 | Lorengau 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lorengau,pg
-Processing record of 223 | Kaabong 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaabong,ug
-Processing record of 224 | Ambon 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ambon,id
-Processing record of 225 | Ponta Delgada 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ponta delgada,pt
-Processing record of 226 | Oriximina 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oriximina,br
-Processing record of 227 | Ha Giang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ha giang,vn
-Processing record of 228 | Albury 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=albury,au
-Processing record of 229 | Doha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=doha,qa
-Processing record of 230 | Biarritz 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=biarritz,fr
-Processing record of 231 | Sopelana 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sopelana,es
-Processing record of 232 | Qaqortoq 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qaqortoq,gl
-Processing record of 233 | Diego de Almagro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=diego de almagro,cl
-Processing record of 234 | Harper 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=harper,lr
-Processing record of 235 | Iringa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=iringa,tz
-Processing record of 236 | Fortuna 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fortuna,us
-Processing record of 237 | Port Hawkesbury 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port hawkesbury,ca
-Processing record of 238 | Pekalongan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pekalongan,id
-Processing record of 239 | Komsomolskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=komsomolskiy,ru
-Processing record of 240 | Ugoofaaru 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ugoofaaru,mv
-Processing record of 241 | Carnarvon 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carnarvon,au
-Processing record of 242 | Hearst 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hearst,ca
-Processing record of 243 | Khatanga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=khatanga,ru
-Processing record of 244 | Denpasar 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=denpasar,id
-Processing record of 245 | Bubaque 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bubaque,gw
-Processing record of 246 | Dalvik 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dalvik,is
-Processing record of 247 | Narsaq 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=narsaq,gl
-Processing record of 248 | Kuching 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kuching,my
-Processing record of 249 | Nanortalik 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nanortalik,gl
-Processing record of 250 | Herat 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=herat,af
-Processing record of 251 | Dijkot 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dijkot,pk
-Processing record of 252 | Qaanaaq 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qaanaaq,gl
-Processing record of 253 | Boende 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=boende,cd
-Processing record of 254 | Hami 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hami,cn
-Processing record of 255 | Shaunavon 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shaunavon,ca
-Processing record of 256 | Alihe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alihe,cn
-Processing record of 257 | Constitucion 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=constitucion,mx
-Processing record of 258 | Tiksi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tiksi,ru
-Processing record of 259 | Takaka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=takaka,nz
-Processing record of 260 | Nyurba 
+Processing record of 9 | new norfolk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=new norfolk,au
+Processing record of 10 | magburaka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=magburaka,sl
+Processing record of 11 | port elizabeth 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port elizabeth,za
+Processing record of 12 | galbshtadt 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=galbshtadt,ru
+Processing record of 13 | mahibadhoo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mahibadhoo,mv
+Processing record of 14 | hay river 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hay river,ca
+Processing record of 15 | san jose 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san jose,gt
+Processing record of 16 | cooma 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cooma,au
+Processing record of 17 | pahrump 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pahrump,us
+Processing record of 18 | borba 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=borba,br
+Processing record of 19 | namatanai 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namatanai,pg
+Processing record of 20 | nyurba 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nyurba,ru
-Processing record of 261 | Palestine 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=palestine,us
-Processing record of 262 | Waipawa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=waipawa,nz
-Processing record of 263 | Sirnak 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sirnak,tr
-Processing record of 264 | Samarai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=samarai,pg
-Processing record of 265 | Gulu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=gulu,ug
-Processing record of 266 | Vao 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vao,nc
-Processing record of 267 | Chanute 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chanute,us
-Processing record of 268 | Georgetown 
+Processing record of 21 | lindi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lindi,tz
+Processing record of 22 | natal 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=natal,br
+Processing record of 23 | souillac 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=souillac,mu
+Processing record of 24 | georgetown 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=georgetown,sh
-Processing record of 269 | Urucara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=urucara,br
-Processing record of 270 | Yining 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yining,cn
-Processing record of 271 | Bogo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bogo,cm
-Processing record of 272 | Klaksvik 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=klaksvik,fo
-Processing record of 273 | Mezen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mezen,ru
-Processing record of 274 | Bundaberg 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bundaberg,au
-Processing record of 275 | Caravelas 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=caravelas,br
-Processing record of 276 | Kamina 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kamina,cd
-Processing record of 277 | Alofi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alofi,nu
-Processing record of 278 | Aracaju 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aracaju,br
-Processing record of 279 | Rabo de Peixe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rabo de peixe,pt
-Processing record of 280 | Kavieng 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kavieng,pg
-Processing record of 281 | Karratha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=karratha,au
-Processing record of 282 | Mahebourg 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mahebourg,mu
-Processing record of 283 | San Patricio 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san patricio,mx
-Processing record of 284 | Sibu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sibu,my
-Processing record of 285 | Chokurdakh 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chokurdakh,ru
-Processing record of 286 | Graham 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=graham,us
-Processing record of 287 | Uvat 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uvat,ru
-Processing record of 288 | Lithgow 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lithgow,au
-Processing record of 289 | Alekseyevsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alekseyevsk,ru
-Processing record of 290 | Kenai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kenai,us
-Processing record of 291 | Riverton 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=riverton,us
-Processing record of 292 | Mehamn 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mehamn,no
-Processing record of 293 | Mariestad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mariestad,se
-Processing record of 294 | Agadir 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=agadir,ma
-Processing record of 295 | Jiujiang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jiujiang,cn
-Processing record of 296 | Dongsheng 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dongsheng,cn
-Processing record of 297 | Draper 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=draper,us
-Processing record of 298 | Tompa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tompa,hu
-Processing record of 299 | Wilhelmshaven 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wilhelmshaven,de
-Processing record of 300 | Lusambo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lusambo,cd
-Processing record of 301 | Talnakh 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=talnakh,ru
-Processing record of 302 | Ganzhou 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ganzhou,cn
-Processing record of 303 | Khuzhir 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=khuzhir,ru
-Processing record of 304 | Merauke 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=merauke,id
-Processing record of 305 | Sola 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sola,vu
-Processing record of 306 | Omsukchan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=omsukchan,ru
-Processing record of 307 | Utinga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=utinga,br
-Processing record of 308 | Quatre Cocos 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=quatre cocos,mu
-Processing record of 309 | North Bend 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=north bend,us
-Processing record of 310 | Lebu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lebu,cl
-Processing record of 311 | Flinders 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=flinders,au
-Processing record of 312 | Pisco 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pisco,pe
-Processing record of 313 | Ambilobe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ambilobe,mg
-Processing record of 314 | Ullapool 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ullapool,gb
-Processing record of 315 | Sault Sainte Marie 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sault sainte marie,ca
-Processing record of 316 | Grindavik 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grindavik,is
-Processing record of 317 | Ausa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ausa,in
-Processing record of 318 | Varhaug 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=varhaug,no
-Processing record of 319 | Conakry 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=conakry,gn
-Processing record of 320 | Luderitz 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luderitz,na
-Processing record of 321 | Palani 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=palani,in
-Processing record of 322 | Vangaindrano 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vangaindrano,mg
-Processing record of 323 | Vila Franca do Campo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vila franca do campo,pt
-Processing record of 324 | Kavaratti 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kavaratti,in
-Processing record of 325 | Shamary 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shamary,ru
-Processing record of 326 | Bilma 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bilma,ne
-Processing record of 327 | Vestmannaeyjar 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vestmannaeyjar,is
-Processing record of 328 | Kargopol 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kargopol,ru
-Processing record of 329 | Mount Gambier 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mount gambier,au
-Processing record of 330 | Fukue 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fukue,jp
-Processing record of 331 | Saint-Augustin 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-augustin,ca
-Processing record of 332 | Coromandel 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coromandel,br
-Processing record of 333 | Haimen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=haimen,cn
-Processing record of 334 | Abbeville 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abbeville,us
-Processing record of 335 | Abancay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abancay,pe
-Processing record of 336 | Rabak 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rabak,sd
-Processing record of 337 | Morant Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=morant bay,jm
-Processing record of 338 | Kyzyl-Suu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kyzyl-suu,kg
-Processing record of 339 | Kamskiye Polyany 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kamskiye polyany,ru
-Processing record of 340 | Jaru 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jaru,br
-Processing record of 341 | Eyemouth 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eyemouth,gb
-Processing record of 342 | Saldanha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saldanha,za
-Processing record of 343 | Seymchan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=seymchan,ru
-Processing record of 344 | Ilulissat 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ilulissat,gl
-Processing record of 345 | Raudeberg 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=raudeberg,no
-Processing record of 346 | Mahenge 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mahenge,tz
-Processing record of 347 | Nishihara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nishihara,jp
-Processing record of 348 | Mae Hong Son 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mae hong son,th
-Processing record of 349 | Obo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=obo,cf
-Processing record of 350 | Severo-Yeniseyskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=severo-yeniseyskiy,ru
-Processing record of 351 | Muisne 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muisne,ec
-Processing record of 352 | Ternate 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ternate,id
-Processing record of 353 | Wichita 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wichita,us
-Processing record of 354 | Lichinga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lichinga,mz
-Processing record of 355 | Poum 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=poum,nc
-Processing record of 356 | Camargo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=camargo,bo
-Processing record of 357 | Brokopondo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=brokopondo,sr
-Processing record of 358 | Broome 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=broome,au
-Processing record of 359 | College 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=college,us
-Processing record of 360 | Astoria 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=astoria,us
-Processing record of 361 | Gubkinskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=gubkinskiy,ru
-Processing record of 362 | Qujing 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qujing,cn
-Processing record of 363 | Sibolga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sibolga,id
-Processing record of 364 | Makanya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=makanya,tz
-Processing record of 365 | Ponta do Sol 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ponta do sol,pt
-Processing record of 366 | Burns Lake 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=burns lake,ca
-Processing record of 367 | Sechura 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sechura,pe
-Processing record of 368 | Margate 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=margate,za
-Processing record of 369 | Ostrovnoy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ostrovnoy,ru
-Processing record of 370 | Ketchikan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ketchikan,us
-Processing record of 371 | Monterey 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=monterey,us
-Processing record of 372 | Santa Lucia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santa lucia,pe
-Processing record of 373 | Yulara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yulara,au
-Processing record of 374 | Tual 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tual,id
-Processing record of 375 | Riberalta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=riberalta,bo
-Processing record of 376 | Turukhansk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=turukhansk,ru
-Processing record of 377 | Mumbwa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mumbwa,zm
-Processing record of 378 | Ati 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ati,td
-Processing record of 379 | Tura 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tura,ru
-Processing record of 380 | Weligama 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=weligama,lk
-Processing record of 381 | Manta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=manta,ec
-Processing record of 382 | Tenjo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tenjo,co
-Processing record of 383 | Paraibano 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=paraibano,br
-Processing record of 384 | Uong Bi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uong bi,vn
-Processing record of 385 | Oranjestad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oranjestad,aw
-Processing record of 386 | Langsa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=langsa,id
-Processing record of 387 | Sept-Iles 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sept-iles,ca
-Processing record of 388 | Xacmaz 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xacmaz,az
-Processing record of 389 | Klichka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=klichka,ru
-Processing record of 390 | Beringovskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beringovskiy,ru
-Processing record of 391 | Dwarka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dwarka,in
-Processing record of 392 | Shimoda 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shimoda,jp
-Processing record of 393 | Klyuchi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=klyuchi,ru
-Processing record of 394 | Puerto Narino 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto narino,co
-Processing record of 395 | Yumen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yumen,cn
-Processing record of 396 | Hamina 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hamina,fi
-Processing record of 397 | Namtsy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namtsy,ru
-Processing record of 398 | Butterworth 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=butterworth,za
-Processing record of 399 | Caramay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=caramay,ph
-Processing record of 400 | Umm Kaddadah 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=umm kaddadah,sd
-Processing record of 401 | Mantua 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mantua,cu
-Processing record of 402 | Bintulu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bintulu,my
-Processing record of 403 | Xining 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xining,cn
-Processing record of 404 | Grand Gaube 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grand gaube,mu
-Processing record of 405 | Annecy-le-Vieux 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=annecy-le-vieux,fr
-Processing record of 406 | Dauriya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dauriya,ru
-Processing record of 407 | Joniskis 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=joniskis,lt
-Processing record of 408 | Aba 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aba,ng
-Processing record of 409 | Hambantota 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hambantota,lk
-Processing record of 410 | Pauini 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pauini,br
-Processing record of 411 | Kirakira 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kirakira,sb
-Processing record of 412 | Nara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nara,ml
-Processing record of 413 | Beri 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beri,in
-Processing record of 414 | Takoradi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=takoradi,gh
-Processing record of 415 | Formosa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=formosa,ar
-Processing record of 416 | Port-Gentil 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port-gentil,ga
-Processing record of 417 | Conceicao do Araguaia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=conceicao do araguaia,br
-Processing record of 418 | Launceston 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=launceston,au
-Processing record of 419 | Songkhla 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=songkhla,th
-Processing record of 420 | Bud 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bud,no
-Processing record of 421 | Chapais 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chapais,ca
-Processing record of 422 | Tabou 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tabou,ci
-Processing record of 423 | Fomboni 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fomboni,km
-Processing record of 424 | La Libertad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la libertad,sv
-Processing record of 425 | Kiunga 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kiunga,pg
-Processing record of 426 | Pavlohrad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pavlohrad,ua
-Processing record of 427 | Skjervoy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=skjervoy,no
-Processing record of 428 | Jos 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jos,ng
-Processing record of 429 | Cherskiy 
+Processing record of 25 | awjilah 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=awjilah,ly
+Processing record of 26 | yellowknife 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yellowknife,ca
+Processing record of 27 | hohhot 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hohhot,cn
+Processing record of 28 | sao joao da barra 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao joao da barra,br
+Processing record of 29 | montepuez 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=montepuez,mz
+Processing record of 30 | busselton 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=busselton,au
+Processing record of 31 | lumeje 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lumeje,ao
+Processing record of 32 | rikitea 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rikitea,pf
+Processing record of 33 | vaini 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vaini,to
+Processing record of 34 | cherskiy 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cherskiy,ru
-Processing record of 430 | Sahuaripa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sahuaripa,mx
-Processing record of 431 | Nokaneng 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nokaneng,bw
-Processing record of 432 | Venado Tuerto 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=venado tuerto,ar
-Processing record of 433 | Tenno 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tenno,jp
-Processing record of 434 | Corner Brook 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=corner brook,ca
-Processing record of 435 | Isfana 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=isfana,kg
-Processing record of 436 | Ixtapa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ixtapa,mx
-Processing record of 437 | Labuhan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=labuhan,id
-Processing record of 438 | Madera 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=madera,mx
-Processing record of 439 | Mirabad 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mirabad,af
-Processing record of 440 | Sorland 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sorland,no
-Processing record of 441 | Kahului 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kahului,us
-Processing record of 442 | Seoul 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=seoul,kr
-Processing record of 443 | Fare 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fare,pf
-Processing record of 444 | Petropavlovsk-Kamchatskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=petropavlovsk-kamchatskiy,ru
-Processing record of 445 | Kindu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kindu,cd
-Processing record of 446 | Baykit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baykit,ru
-Processing record of 447 | Quelimane 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=quelimane,mz
-Processing record of 448 | Semnan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=semnan,ir
-Processing record of 449 | Jumla 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jumla,np
-Processing record of 450 | Belaya Gora 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=belaya gora,ru
-Processing record of 451 | Fairbanks 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fairbanks,us
-Processing record of 452 | Matara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=matara,lk
-Processing record of 453 | Rajmahal 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rajmahal,in
-Processing record of 454 | Lagos 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lagos,ng
-Processing record of 455 | Shenjiamen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shenjiamen,cn
-Processing record of 456 | Katsuura 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=katsuura,jp
-Processing record of 457 | Clearwater 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=clearwater,us
-Processing record of 458 | Sur 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sur,om
-Processing record of 459 | Concepcion del Oro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=concepcion del oro,mx
-Processing record of 460 | Vernon 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vernon,us
-Processing record of 461 | Mogadouro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mogadouro,pt
-Processing record of 462 | Makaha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=makaha,us
-Processing record of 463 | Nyrob 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nyrob,ru
-Processing record of 464 | Elko 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=elko,us
-Processing record of 465 | Saint-Pierre 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-pierre,pm
-Processing record of 466 | Deep River 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=deep river,ca
-Processing record of 467 | Whitewater 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=whitewater,us
-Processing record of 468 | Aykhal 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aykhal,ru
-Processing record of 469 | Basco 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=basco,ph
-Processing record of 470 | Taltal 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=taltal,cl
-Processing record of 471 | Tynset 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tynset,no
-Processing record of 472 | Del Rio 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=del rio,us
-Processing record of 473 | Portland 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=portland,au
-Processing record of 474 | Lincoln 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lincoln,nz
-Processing record of 475 | Neuquen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=neuquen,ar
-Processing record of 476 | Luleburgaz 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luleburgaz,tr
-Processing record of 477 | Valkla 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=valkla,ee
-Processing record of 478 | Hastings 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hastings,nz
-Processing record of 479 | Olinda 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=olinda,br
-Processing record of 480 | Bulawayo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bulawayo,zw
-Processing record of 481 | Port Blair 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port blair,in
-Processing record of 482 | Kutum 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kutum,sd
-Processing record of 483 | Port Hedland 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port hedland,au
-Processing record of 484 | Yerbogachen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yerbogachen,ru
-Processing record of 485 | Tessalit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tessalit,ml
-Processing record of 486 | Kenora 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kenora,ca
-Processing record of 487 | Richards Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=richards bay,za
-Processing record of 488 | Kloulklubed 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kloulklubed,pw
-Processing record of 489 | Sinegorye 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sinegorye,ru
-Processing record of 490 | Qandala 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qandala,so
-Processing record of 491 | Dakar 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dakar,sn
-Processing record of 492 | Muli 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muli,mv
-Processing record of 493 | Puerto Baquerizo Moreno 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto baquerizo moreno,ec
-Processing record of 494 | Linares 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=linares,cl
-Processing record of 495 | Lingyuan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lingyuan,cn
-Processing record of 496 | Letterkenny 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=letterkenny,ie
-Processing record of 497 | Minab 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=minab,ir
-Processing record of 498 | Concordia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=concordia,ar
-Processing record of 499 | Batagay-Alyta 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=batagay-alyta,ru
-Processing record of 500 | Nynashamn 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nynashamn,se
-Processing record of 501 | Ulaangom 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ulaangom,mn
-Processing record of 502 | Urubicha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=urubicha,bo
-Processing record of 503 | Beasain 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beasain,es
-Processing record of 504 | Peleduy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=peleduy,ru
-Processing record of 505 | Abong Mbang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abong mbang,cm
-Processing record of 506 | Kiruna 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kiruna,se
-Processing record of 507 | San Juan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san juan,us
-Processing record of 508 | Pasni 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pasni,pk
-Processing record of 509 | Katangli 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=katangli,ru
-Processing record of 510 | Gayeri 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=gayeri,bf
-Processing record of 511 | Eskisehir 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eskisehir,tr
-Processing record of 512 | Una 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=una,in
-Processing record of 513 | Tadine 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tadine,nc
-Processing record of 514 | Naze 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=naze,jp
-Processing record of 515 | Am Timan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=am timan,td
-Processing record of 516 | Carutapera 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carutapera,br
-Processing record of 517 | Yinchuan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yinchuan,cn
-Processing record of 518 | Ahipara 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ahipara,nz
-Processing record of 519 | Lohr 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lohr,de
-Processing record of 520 | Berlevag 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=berlevag,no
-Processing record of 521 | Lavrentiya 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lavrentiya,ru
-Processing record of 522 | Rivers 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rivers,ca
-Processing record of 523 | Joensuu 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=joensuu,fi
-Processing record of 524 | Pemba 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pemba,mz
-Processing record of 525 | Cookeville 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cookeville,us
-Processing record of 526 | Kristinehamn 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kristinehamn,se
-Processing record of 527 | Nago 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nago,jp
-Processing record of 528 | Guasdualito 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=guasdualito,ve
-Processing record of 529 | Vuktyl 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vuktyl,ru
-Processing record of 530 | Porto Novo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=porto novo,cv
-Processing record of 531 | Leningradskiy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=leningradskiy,ru
-Processing record of 532 | Dali 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dali,cn
-Processing record of 533 | Miraflores 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=miraflores,co
-Processing record of 534 | Rudnogorsk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rudnogorsk,ru
-Processing record of 535 | San Carlos 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san carlos,uy
-Processing record of 536 | Aberdeen 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aberdeen,us
-Processing record of 537 | Solnechnyy 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=solnechnyy,ru
-Processing record of 538 | Kindia 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kindia,gn
-Processing record of 539 | Tuy Hoa 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tuy hoa,vn
-Processing record of 540 | Key West 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=key west,us
-Processing record of 541 | Chilca 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chilca,pe
-Processing record of 542 | Alegrete 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alegrete,br
-Processing record of 543 | Waterloo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=waterloo,us
-Processing record of 544 | Kishi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kishi,ng
-Processing record of 545 | Labuan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=labuan,my
-Processing record of 546 | Southbridge 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=southbridge,nz
-Processing record of 547 | Wajima 
+Processing record of 35 | camacari 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=camacari,br
+Processing record of 36 | sunndalsora 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sunndalsora,no
+Processing record of 37 | qaanaaq 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qaanaaq,gl
+Processing record of 38 | grand gaube 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grand gaube,mu
+Processing record of 39 | san cristobal 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san cristobal,ec
+Processing record of 40 | los llanos de aridane 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=los llanos de aridane,es
+Processing record of 41 | hermanus 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hermanus,za
+Processing record of 42 | mar del plata 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mar del plata,ar
+Processing record of 43 | cienfuegos 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cienfuegos,cu
+Processing record of 44 | beya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beya,ru
+Processing record of 45 | butaritari 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=butaritari,ki
+Processing record of 46 | kapaa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kapaa,us
+Processing record of 47 | ushuaia 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ushuaia,ar
+Processing record of 48 | louga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=louga,sn
+Processing record of 49 | kavaratti 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kavaratti,in
+Processing record of 50 | carnarvon 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carnarvon,au
+Processing record of 51 | bosaso 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bosaso,so
+Processing record of 52 | saint george 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint george,bm
+Processing record of 53 | pychas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pychas,ru
+Processing record of 54 | yulara 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yulara,au
+Processing record of 55 | muscat 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muscat,om
+Processing record of 56 | xichang 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xichang,cn
+Processing record of 57 | hobyo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hobyo,so
+Processing record of 58 | talnakh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=talnakh,ru
+Processing record of 59 | hilo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hilo,us
+Processing record of 60 | dothan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dothan,us
+Processing record of 61 | kysyl-syr 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kysyl-syr,ru
+Processing record of 62 | ojinaga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ojinaga,mx
+Processing record of 63 | esperance 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=esperance,au
+Processing record of 64 | kerman 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kerman,ir
+Processing record of 65 | tautira 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tautira,pf
+Processing record of 66 | grindavik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grindavik,is
+Processing record of 67 | winslow 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=winslow,us
+Processing record of 68 | punta arenas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=punta arenas,cl
+Processing record of 69 | vao 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vao,nc
+Processing record of 70 | kodiak 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kodiak,us
+Processing record of 71 | wajima 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wajima,jp
-Processing record of 548 | Kamenka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kamenka,ru
-Processing record of 549 | Darhan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=darhan,mn
-Processing record of 550 | Cacak 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cacak,rs
-Processing record of 551 | Slave Lake 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=slave lake,ca
-Processing record of 552 | Veraval 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=veraval,in
-Processing record of 553 | Xai-Xai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xai-xai,mz
-Processing record of 554 | Onda 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=onda,es
-Processing record of 555 | Road Town 
+Processing record of 72 | vostok 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vostok,ru
+Processing record of 73 | cairns 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cairns,au
+Processing record of 74 | chokurdakh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chokurdakh,ru
+Processing record of 75 | dikson 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dikson,ru
+Processing record of 76 | provideniya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=provideniya,ru
+Processing record of 77 | flinders 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=flinders,au
+Processing record of 78 | namanyere 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namanyere,tz
+Processing record of 79 | avarua 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=avarua,ck
+Processing record of 80 | kodinsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kodinsk,ru
+Processing record of 81 | road town 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=road town,vg
-Processing record of 556 | Itarema 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=itarema,br
-Processing record of 557 | Papar 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=papar,my
-Processing record of 558 | Luanda 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luanda,ao
-Processing record of 559 | Dhidhdhoo 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dhidhdhoo,mv
-Processing record of 560 | Hecun 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hecun,cn
-Processing record of 561 | Vizianagaram 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vizianagaram,in
-Processing record of 562 | Polis 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=polis,cy
-Processing record of 563 | Biak 
+Processing record of 82 | edinburg 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=edinburg,us
+Processing record of 83 | westport 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=westport,nz
+Processing record of 84 | bredasdorp 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bredasdorp,za
+Processing record of 85 | albany 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=albany,au
+Processing record of 86 | nikolskoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nikolskoye,ru
+Processing record of 87 | muroto 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muroto,jp
+Processing record of 88 | upernavik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=upernavik,gl
+Processing record of 89 | antsohihy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=antsohihy,mg
+Processing record of 90 | coquimbo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coquimbo,cl
+Processing record of 91 | castro 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=castro,cl
+Processing record of 92 | blackwater 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=blackwater,au
+Processing record of 93 | biak 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=biak,id
-Processing record of 564 | Sao Filipe 
+Processing record of 94 | husavik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=husavik,is
+Processing record of 95 | atuona 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=atuona,pf
+Processing record of 96 | tura 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tura,ru
+Processing record of 97 | la ronge 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la ronge,ca
+Processing record of 98 | torbay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=torbay,ca
+Processing record of 99 | mitu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mitu,co
+Processing record of 100 | opuwo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=opuwo,na
+Processing record of 101 | burnie 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=burnie,au
+Processing record of 102 | abu zabad 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abu zabad,sd
+Processing record of 103 | hithadhoo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hithadhoo,mv
+Processing record of 104 | port alfred 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port alfred,za
+Processing record of 105 | cabo san lucas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cabo san lucas,mx
+Processing record of 106 | sorland 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sorland,no
+Processing record of 107 | huarmey 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=huarmey,pe
+Processing record of 108 | luderitz 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=luderitz,na
+Processing record of 109 | dalbandin 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dalbandin,pk
+Processing record of 110 | charlottetown 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=charlottetown,ca
+Processing record of 111 | bhuvanagiri 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bhuvanagiri,in
+Processing record of 112 | hasaki 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hasaki,jp
+Processing record of 113 | bathsheba 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bathsheba,bb
+Processing record of 114 | saint-philippe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-philippe,re
+Processing record of 115 | beloeil 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beloeil,ca
+Processing record of 116 | celestun 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=celestun,mx
+Processing record of 117 | lagoa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lagoa,pt
+Processing record of 118 | katsuura 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=katsuura,jp
+Processing record of 119 | san patricio 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san patricio,mx
+Processing record of 120 | markova 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=markova,ru
+Processing record of 121 | rongcheng 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rongcheng,cn
+Processing record of 122 | linden 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=linden,gy
+Processing record of 123 | edgewater 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=edgewater,us
+Processing record of 124 | tiruppur 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tiruppur,in
+Processing record of 125 | college 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=college,us
+Processing record of 126 | te anau 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=te anau,nz
+Processing record of 127 | awbari 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=awbari,ly
+Processing record of 128 | tasiilaq 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tasiilaq,gl
+Processing record of 129 | san francisco 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san francisco,ar
+Processing record of 130 | kolpashevo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kolpashevo,ru
+Processing record of 131 | maragogi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maragogi,br
+Processing record of 132 | shenjiamen 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shenjiamen,cn
+Processing record of 133 | panalingaan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=panalingaan,ph
+Processing record of 134 | sao filipe 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao filipe,cv
-Processing record of 565 | Trincomalee 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=trincomalee,lk
-Processing record of 566 | Cuiluan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cuiluan,cn
-Processing record of 567 | Dogondoutchi 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dogondoutchi,ne
-Processing record of 568 | Dobris 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dobris,cz
-Processing record of 569 | Sora 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sora,it
-Processing record of 570 | Soc Trang 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=soc trang,vn
-Processing record of 571 | Kailua 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kailua,us
-Processing record of 572 | Sfantu Gheorghe 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sfantu gheorghe,ro
-Processing record of 573 | Saryg-Sep 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saryg-sep,ru
-Processing record of 574 | Shitanjing 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shitanjing,cn
-Processing record of 575 | Alvorada 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alvorada,br
-Processing record of 576 | Narrabri 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=narrabri,au
-Processing record of 577 | Benito Juarez 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=benito juarez,mx
-Processing record of 578 | La Union 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la union,es
-Processing record of 579 | Byron Bay 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=byron bay,au
-Processing record of 580 | Arlit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=arlit,ne
-Processing record of 581 | Manzhouli 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=manzhouli,cn
-Processing record of 582 | San Luis 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san luis,mx
-Processing record of 583 | Vila Velha 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vila velha,br
-Processing record of 584 | Pacifica 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pacifica,us
-Processing record of 585 | Slavyanka 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=slavyanka,ru
-Processing record of 586 | Surt 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=surt,ly
-Processing record of 587 | Feldbach 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=feldbach,at
-Processing record of 588 | Kalmunai 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kalmunai,lk
-Processing record of 589 | Mangan 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mangan,in
-Processing record of 590 | Evanston 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=evanston,us
-Processing record of 591 | Huilong 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=huilong,cn
-Processing record of 592 | Cayenne 
+Processing record of 135 | namibe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=namibe,ao
+Processing record of 136 | pevek 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pevek,ru
+Processing record of 137 | aracati 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aracati,br
+Processing record of 138 | partizansk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=partizansk,ru
+Processing record of 139 | barrow 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=barrow,us
+Processing record of 140 | mahebourg 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mahebourg,mu
+Processing record of 141 | tuatapere 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tuatapere,nz
+Processing record of 142 | hibbing 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hibbing,us
+Processing record of 143 | danville 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=danville,us
+Processing record of 144 | santa rosa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santa rosa,bo
+Processing record of 145 | broome 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=broome,au
+Processing record of 146 | paamiut 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=paamiut,gl
+Processing record of 147 | chuy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chuy,uy
+Processing record of 148 | thompson 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=thompson,ca
+Processing record of 149 | longyearbyen 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=longyearbyen,sj
+Processing record of 150 | klaksvik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=klaksvik,fo
+Processing record of 151 | solnechnyy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=solnechnyy,ru
+Processing record of 152 | tiksi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tiksi,ru
+Processing record of 153 | nyaunglebin 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nyaunglebin,mm
+Processing record of 154 | limbang 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=limbang,my
+Processing record of 155 | kivioli 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kivioli,ee
+Processing record of 156 | horqueta 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=horqueta,py
+Processing record of 157 | kirakira 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kirakira,sb
+Processing record of 158 | cayenne 
  http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cayenne,gf
-Processing record of 593 | Novouzensk 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=novouzensk,ru
-Processing record of 594 | Tiznit 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tiznit,ma
-Processing record of 595 | Young 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=young,au
-Processing record of 596 | Santa Isabel do Rio Negro 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santa isabel do rio negro,br
-Processing record of 597 | Lady Frere 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lady frere,za
-Processing record of 598 | Praia da Vitoria 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=praia da vitoria,pt
-Processing record of 599 | Tocache 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tocache,pe
-Processing record of 600 | Omboue 
- http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=omboue,ga
+Processing record of 159 | houma 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=houma,us
+Processing record of 160 | lebu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lebu,cl
+Processing record of 161 | touros 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=touros,br
+Processing record of 162 | puerto ayora 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto ayora,ec
+Processing record of 163 | voi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=voi,ke
+Processing record of 164 | oftringen 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oftringen,ch
+Processing record of 165 | havelock 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=havelock,us
+Processing record of 166 | chernyshevskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chernyshevskiy,ru
+Processing record of 167 | virginia beach 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=virginia beach,us
+Processing record of 168 | boende 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=boende,cd
+Processing record of 169 | ilulissat 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ilulissat,gl
+Processing record of 170 | marsh harbour 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=marsh harbour,bs
+Processing record of 171 | hammond 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hammond,us
+Processing record of 172 | nanning 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nanning,cn
+Processing record of 173 | pangnirtung 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pangnirtung,ca
+Processing record of 174 | aykhal 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aykhal,ru
+Processing record of 175 | kiunga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kiunga,pg
+Processing record of 176 | ribeira grande 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ribeira grande,pt
+Processing record of 177 | saskylakh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saskylakh,ru
+Processing record of 178 | constitucion 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=constitucion,mx
+Processing record of 179 | marsaxlokk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=marsaxlokk,mt
+Processing record of 180 | ferrol 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ferrol,es
+Processing record of 181 | monterey 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=monterey,us
+Processing record of 182 | sola 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sola,vu
+Processing record of 183 | petatlan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=petatlan,mx
+Processing record of 184 | boa vista 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=boa vista,br
+Processing record of 185 | kruisfontein 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kruisfontein,za
+Processing record of 186 | trairi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=trairi,br
+Processing record of 187 | langsa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=langsa,id
+Processing record of 188 | cidreira 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cidreira,br
+Processing record of 189 | aklavik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aklavik,ca
+Processing record of 190 | saint-louis 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-louis,sn
+Processing record of 191 | moree 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=moree,au
+Processing record of 192 | bolshaya dzhalga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bolshaya dzhalga,ru
+Processing record of 193 | baton rouge 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baton rouge,us
+Processing record of 194 | nanortalik 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nanortalik,gl
+Processing record of 195 | eyl 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eyl,so
+Processing record of 196 | paragominas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=paragominas,br
+Processing record of 197 | khatanga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=khatanga,ru
+Processing record of 198 | dera bugti 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dera bugti,pk
+Processing record of 199 | ketchikan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ketchikan,us
+Processing record of 200 | sao sebastiao 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao sebastiao,br
+Processing record of 201 | suixi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=suixi,cn
+Processing record of 202 | qingdao 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qingdao,cn
+Processing record of 203 | kaeo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaeo,nz
+Processing record of 204 | deputatskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=deputatskiy,ru
+Processing record of 205 | prince rupert 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=prince rupert,ca
+Processing record of 206 | puerto escondido 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=puerto escondido,mx
+Processing record of 207 | port lincoln 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port lincoln,au
+Processing record of 208 | riyadh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=riyadh,sa
+Processing record of 209 | pascagoula 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pascagoula,us
+Processing record of 210 | karratha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=karratha,au
+Processing record of 211 | lorengau 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lorengau,pg
+Processing record of 212 | peterhead 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=peterhead,gb
+Processing record of 213 | maceio 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maceio,br
+Processing record of 214 | victoria 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=victoria,sc
+Processing record of 215 | itoman 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=itoman,jp
+Processing record of 216 | bethel 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bethel,us
+Processing record of 217 | axim 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=axim,gh
+Processing record of 218 | westport 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=westport,ie
+Processing record of 219 | santana 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santana,br
+Processing record of 220 | itarema 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=itarema,br
+Processing record of 221 | clyde river 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=clyde river,ca
+Processing record of 222 | kununurra 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kununurra,au
+Processing record of 223 | alta 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alta,no
+Processing record of 224 | palmer 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=palmer,us
+Processing record of 225 | springbok 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=springbok,za
+Processing record of 226 | severo-kurilsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=severo-kurilsk,ru
+Processing record of 227 | komsomolskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=komsomolskiy,ru
+Processing record of 228 | guerrero negro 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=guerrero negro,mx
+Processing record of 229 | baiao 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baiao,br
+Processing record of 230 | eenhana 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eenhana,na
+Processing record of 231 | anito 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=anito,ph
+Processing record of 232 | sitka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sitka,us
+Processing record of 233 | olutanga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=olutanga,ph
+Processing record of 234 | ixtlahuacan del rio 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ixtlahuacan del rio,mx
+Processing record of 235 | nsanje 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nsanje,mw
+Processing record of 236 | kayseri 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kayseri,tr
+Processing record of 237 | sambava 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sambava,mg
+Processing record of 238 | korla 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=korla,cn
+Processing record of 239 | panzhihua 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=panzhihua,cn
+Processing record of 240 | coahuayana 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coahuayana,mx
+Processing record of 241 | walvis bay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=walvis bay,na
+Processing record of 242 | ust-karsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ust-karsk,ru
+Processing record of 243 | pacific grove 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pacific grove,us
+Processing record of 244 | auki 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=auki,sb
+Processing record of 245 | east london 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=east london,za
+Processing record of 246 | zhigalovo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zhigalovo,ru
+Processing record of 247 | sabha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sabha,ly
+Processing record of 248 | bambous virieux 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bambous virieux,mu
+Processing record of 249 | arraial do cabo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=arraial do cabo,br
+Processing record of 250 | raduzhnyy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=raduzhnyy,ru
+Processing record of 251 | victoria 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=victoria,mx
+Processing record of 252 | pjanici 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pjanici,ba
+Processing record of 253 | bayan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bayan,kw
+Processing record of 254 | dicabisagan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dicabisagan,ph
+Processing record of 255 | bosobolo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bosobolo,cd
+Processing record of 256 | jalu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jalu,ly
+Processing record of 257 | carutapera 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carutapera,br
+Processing record of 258 | ponta do sol 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ponta do sol,cv
+Processing record of 259 | esil 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=esil,kz
+Processing record of 260 | narsaq 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=narsaq,gl
+Processing record of 261 | kudahuvadhoo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kudahuvadhoo,mv
+Processing record of 262 | lamar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lamar,us
+Processing record of 263 | ballina 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ballina,au
+Processing record of 264 | madang 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=madang,pg
+Processing record of 265 | quatre cocos 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=quatre cocos,mu
+Processing record of 266 | peleduy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=peleduy,ru
+Processing record of 267 | norden 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=norden,de
+Processing record of 268 | kalmunai 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kalmunai,lk
+Processing record of 269 | kitui 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kitui,ke
+Processing record of 270 | batagay-alyta 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=batagay-alyta,ru
+Processing record of 271 | manta 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=manta,ec
+Processing record of 272 | ilebo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ilebo,cd
+Processing record of 273 | karasburg 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=karasburg,na
+Processing record of 274 | ahipara 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ahipara,nz
+Processing record of 275 | say 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=say,ne
+Processing record of 276 | ixtapa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ixtapa,mx
+Processing record of 277 | kaitangata 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kaitangata,nz
+Processing record of 278 | wanning 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=wanning,cn
+Processing record of 279 | synya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=synya,ru
+Processing record of 280 | fairbanks 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fairbanks,us
+Processing record of 281 | kazachinskoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kazachinskoye,ru
+Processing record of 282 | thaton 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=thaton,mm
+Processing record of 283 | bijie 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bijie,cn
+Processing record of 284 | chandia 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chandia,in
+Processing record of 285 | cabedelo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cabedelo,br
+Processing record of 286 | hualmay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hualmay,pe
+Processing record of 287 | geraldton 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=geraldton,au
+Processing record of 288 | suntar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=suntar,ru
+Processing record of 289 | kutum 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kutum,sd
+Processing record of 290 | port hardy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port hardy,ca
+Processing record of 291 | rieti 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rieti,it
+Processing record of 292 | alofi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alofi,nu
+Processing record of 293 | santiago del estero 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santiago del estero,ar
+Processing record of 294 | medicine hat 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=medicine hat,ca
+Processing record of 295 | progreso 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=progreso,mx
+Processing record of 296 | fare 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fare,pf
+Processing record of 297 | shimoda 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shimoda,jp
+Processing record of 298 | rafai 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rafai,cf
+Processing record of 299 | maitum 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maitum,ph
+Processing record of 300 | bandrele 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bandrele,yt
+Processing record of 301 | nuevo progreso 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nuevo progreso,mx
+Processing record of 302 | lompoc 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lompoc,us
+Processing record of 303 | freeport 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=freeport,us
+Processing record of 304 | hamilton 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hamilton,bm
+Processing record of 305 | chino valley 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chino valley,us
+Processing record of 306 | iqaluit 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=iqaluit,ca
+Processing record of 307 | hofn 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hofn,is
+Processing record of 308 | uyskoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uyskoye,ru
+Processing record of 309 | cockburn town 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cockburn town,bs
+Processing record of 310 | zhanaozen 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zhanaozen,kz
+Processing record of 311 | vila franca do campo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vila franca do campo,pt
+Processing record of 312 | gilgit 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=gilgit,pk
+Processing record of 313 | ust-maya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ust-maya,ru
+Processing record of 314 | kintampo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kintampo,gh
+Processing record of 315 | klerksdorp 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=klerksdorp,za
+Processing record of 316 | kieta 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kieta,pg
+Processing record of 317 | norman wells 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=norman wells,ca
+Processing record of 318 | bonavista 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bonavista,ca
+Processing record of 319 | mehamn 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mehamn,no
+Processing record of 320 | jiuquan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jiuquan,cn
+Processing record of 321 | along 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=along,in
+Processing record of 322 | krasnokamensk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=krasnokamensk,ru
+Processing record of 323 | mehnagar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mehnagar,in
+Processing record of 324 | cururupu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cururupu,br
+Processing record of 325 | xuddur 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xuddur,so
+Processing record of 326 | de aar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=de aar,za
+Processing record of 327 | donja dubica 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=donja dubica,ba
+Processing record of 328 | kenai 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kenai,us
+Processing record of 329 | chaozhou 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chaozhou,cn
+Processing record of 330 | sahuaripa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sahuaripa,mx
+Processing record of 331 | ahuimanu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ahuimanu,us
+Processing record of 332 | kahului 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kahului,us
+Processing record of 333 | dossor 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dossor,kz
+Processing record of 334 | harer 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=harer,et
+Processing record of 335 | matamoros 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=matamoros,mx
+Processing record of 336 | lencois paulista 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lencois paulista,br
+Processing record of 337 | diego de almagro 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=diego de almagro,cl
+Processing record of 338 | necochea 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=necochea,ar
+Processing record of 339 | geraldton 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=geraldton,ca
+Processing record of 340 | mount isa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mount isa,au
+Processing record of 341 | murgab 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=murgab,tm
+Processing record of 342 | bambanglipuro 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bambanglipuro,id
+Processing record of 343 | ancud 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ancud,cl
+Processing record of 344 | mogadishu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mogadishu,so
+Processing record of 345 | impfondo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=impfondo,cg
+Processing record of 346 | plettenberg bay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=plettenberg bay,za
+Processing record of 347 | strezhevoy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=strezhevoy,ru
+Processing record of 348 | sao miguel do araguaia 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao miguel do araguaia,br
+Processing record of 349 | takoradi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=takoradi,gh
+Processing record of 350 | lexington 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lexington,us
+Processing record of 351 | udachnyy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=udachnyy,ru
+Processing record of 352 | bage 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bage,br
+Processing record of 353 | hami 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hami,cn
+Processing record of 354 | tikrit 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tikrit,iq
+Processing record of 355 | bubaque 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bubaque,gw
+Processing record of 356 | xam nua 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xam nua,la
+Processing record of 357 | eureka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eureka,us
+Processing record of 358 | hennebont 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hennebont,fr
+Processing record of 359 | caravelas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=caravelas,br
+Processing record of 360 | sao miguel 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao miguel,br
+Processing record of 361 | tyret pervaya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tyret pervaya,ru
+Processing record of 362 | bilma 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bilma,ne
+Processing record of 363 | tongliao 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tongliao,cn
+Processing record of 364 | beloha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beloha,mg
+Processing record of 365 | salinopolis 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=salinopolis,br
+Processing record of 366 | salalah 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=salalah,om
+Processing record of 367 | yar-sale 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yar-sale,ru
+Processing record of 368 | lucea 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lucea,jm
+Processing record of 369 | ayutla 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ayutla,mx
+Processing record of 370 | toamasina 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=toamasina,mg
+Processing record of 371 | paka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=paka,my
+Processing record of 372 | bichura 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bichura,ru
+Processing record of 373 | severo-yeniseyskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=severo-yeniseyskiy,ru
+Processing record of 374 | dunedin 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dunedin,nz
+Processing record of 375 | xiazhen 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=xiazhen,cn
+Processing record of 376 | la peca 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la peca,pe
+Processing record of 377 | aksarka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aksarka,ru
+Processing record of 378 | naze 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=naze,jp
+Processing record of 379 | florianopolis 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=florianopolis,br
+Processing record of 380 | tornio 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tornio,fi
+Processing record of 381 | rawson 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rawson,ar
+Processing record of 382 | taonan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=taonan,cn
+Processing record of 383 | abalak 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abalak,ne
+Processing record of 384 | sardarshahr 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sardarshahr,in
+Processing record of 385 | cap-aux-meules 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=cap-aux-meules,ca
+Processing record of 386 | dabola 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dabola,gn
+Processing record of 387 | shingu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=shingu,jp
+Processing record of 388 | louis trichardt 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=louis trichardt,za
+Processing record of 389 | uruzgan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uruzgan,af
+Processing record of 390 | bluefield 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bluefield,us
+Processing record of 391 | port blair 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port blair,in
+Processing record of 392 | umm lajj 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=umm lajj,sa
+Processing record of 393 | ukiah 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ukiah,us
+Processing record of 394 | barcelos 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=barcelos,br
+Processing record of 395 | baniyas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baniyas,sy
+Processing record of 396 | teya 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=teya,ru
+Processing record of 397 | potamia 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=potamia,gr
+Processing record of 398 | mount gambier 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mount gambier,au
+Processing record of 399 | novokayakent 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=novokayakent,ru
+Processing record of 400 | ndele 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ndele,cf
+Processing record of 401 | pareora 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pareora,nz
+Processing record of 402 | faanui 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=faanui,pf
+Processing record of 403 | pointe-noire 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pointe-noire,gp
+Processing record of 404 | san policarpo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san policarpo,ph
+Processing record of 405 | simpang 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=simpang,id
+Processing record of 406 | fez 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fez,ma
+Processing record of 407 | muravlenko 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=muravlenko,ru
+Processing record of 408 | la primavera 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=la primavera,co
+Processing record of 409 | borisovka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=borisovka,ru
+Processing record of 410 | pokosnoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pokosnoye,ru
+Processing record of 411 | turiacu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=turiacu,br
+Processing record of 412 | poltava 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=poltava,ua
+Processing record of 413 | kabalo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kabalo,cd
+Processing record of 414 | meulaboh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=meulaboh,id
+Processing record of 415 | burns lake 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=burns lake,ca
+Processing record of 416 | pindamonhangaba 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pindamonhangaba,br
+Processing record of 417 | kamenka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kamenka,ru
+Processing record of 418 | sangar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sangar,ru
+Processing record of 419 | saint-pierre 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saint-pierre,pm
+Processing record of 420 | sioux lookout 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sioux lookout,ca
+Processing record of 421 | nyazepetrovsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nyazepetrovsk,ru
+Processing record of 422 | sistranda 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sistranda,no
+Processing record of 423 | emmett 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=emmett,us
+Processing record of 424 | nome 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nome,us
+Processing record of 425 | port-gentil 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port-gentil,ga
+Processing record of 426 | vardo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vardo,no
+Processing record of 427 | san juan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san juan,ph
+Processing record of 428 | diffa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=diffa,ne
+Processing record of 429 | sammamish 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sammamish,us
+Processing record of 430 | zhigansk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zhigansk,ru
+Processing record of 431 | fuxin 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fuxin,cn
+Processing record of 432 | beyneu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beyneu,kz
+Processing record of 433 | krasnoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=krasnoye,ru
+Processing record of 434 | fortuna 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fortuna,us
+Processing record of 435 | batticaloa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=batticaloa,lk
+Processing record of 436 | egvekinot 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=egvekinot,ru
+Processing record of 437 | three hills 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=three hills,ca
+Processing record of 438 | santiago de cuba 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santiago de cuba,cu
+Processing record of 439 | petropavlovsk-kamchatskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=petropavlovsk-kamchatskiy,ru
+Processing record of 440 | abeche 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=abeche,td
+Processing record of 441 | ambikapur 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ambikapur,in
+Processing record of 442 | leningradskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=leningradskiy,ru
+Processing record of 443 | lanciano 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lanciano,it
+Processing record of 444 | banda aceh 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=banda aceh,id
+Processing record of 445 | honningsvag 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=honningsvag,no
+Processing record of 446 | susuman 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=susuman,ru
+Processing record of 447 | artyom 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=artyom,az
+Processing record of 448 | sri aman 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sri aman,my
+Processing record of 449 | baindur 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baindur,in
+Processing record of 450 | ugoofaaru 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ugoofaaru,mv
+Processing record of 451 | brae 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=brae,gb
+Processing record of 452 | yatou 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yatou,cn
+Processing record of 453 | bonthe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bonthe,sl
+Processing record of 454 | asyut 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=asyut,eg
+Processing record of 455 | bar harbor 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bar harbor,us
+Processing record of 456 | srednekolymsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=srednekolymsk,ru
+Processing record of 457 | arawa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=arawa,pg
+Processing record of 458 | port macquarie 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port macquarie,au
+Processing record of 459 | havre-saint-pierre 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=havre-saint-pierre,ca
+Processing record of 460 | koudougou 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=koudougou,bf
+Processing record of 461 | saldanha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=saldanha,za
+Processing record of 462 | upington 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=upington,za
+Processing record of 463 | makinsk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=makinsk,kz
+Processing record of 464 | basco 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=basco,ph
+Processing record of 465 | kloulklubed 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kloulklubed,pw
+Processing record of 466 | oranjemund 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oranjemund,na
+Processing record of 467 | trinidad 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=trinidad,us
+Processing record of 468 | araouane 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=araouane,ml
+Processing record of 469 | jiayuguan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=jiayuguan,cn
+Processing record of 470 | ostrovnoy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ostrovnoy,ru
+Processing record of 471 | tual 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tual,id
+Processing record of 472 | alyangula 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alyangula,au
+Processing record of 473 | mikhaylovka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mikhaylovka,kz
+Processing record of 474 | chumikan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chumikan,ru
+Processing record of 475 | severomuysk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=severomuysk,ru
+Processing record of 476 | yinchuan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=yinchuan,cn
+Processing record of 477 | mecca 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mecca,sa
+Processing record of 478 | noumea 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=noumea,nc
+Processing record of 479 | kalga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kalga,ru
+Processing record of 480 | tsumeb 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tsumeb,na
+Processing record of 481 | talcahuano 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=talcahuano,cl
+Processing record of 482 | koslan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=koslan,ru
+Processing record of 483 | maumere 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=maumere,id
+Processing record of 484 | belmonte 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=belmonte,br
+Processing record of 485 | novo lino 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=novo lino,br
+Processing record of 486 | hare bay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hare bay,ca
+Processing record of 487 | sumbe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sumbe,ao
+Processing record of 488 | kalmar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kalmar,se
+Processing record of 489 | aboso 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=aboso,gh
+Processing record of 490 | camacha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=camacha,pt
+Processing record of 491 | tilichiki 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tilichiki,ru
+Processing record of 492 | russell 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=russell,nz
+Processing record of 493 | bukama 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bukama,cd
+Processing record of 494 | anori 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=anori,br
+Processing record of 495 | benton harbor 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=benton harbor,us
+Processing record of 496 | acari 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=acari,pe
+Processing record of 497 | uddevalla 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uddevalla,se
+Processing record of 498 | potosi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=potosi,bo
+Processing record of 499 | vangaindrano 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vangaindrano,mg
+Processing record of 500 | novyy urengoy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=novyy urengoy,ru
+Processing record of 501 | waingapu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=waingapu,id
+Processing record of 502 | sao sepe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sao sepe,br
+Processing record of 503 | marawi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=marawi,sd
+Processing record of 504 | kitakata 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kitakata,jp
+Processing record of 505 | porto walter 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=porto walter,br
+Processing record of 506 | acarigua 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=acarigua,ve
+Processing record of 507 | sovetskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sovetskiy,ru
+Processing record of 508 | kathu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kathu,th
+Processing record of 509 | port-cartier 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=port-cartier,ca
+Processing record of 510 | dwarka 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dwarka,in
+Processing record of 511 | tezu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tezu,in
+Processing record of 512 | pangody 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pangody,ru
+Processing record of 513 | ulladulla 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ulladulla,au
+Processing record of 514 | adrar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=adrar,dz
+Processing record of 515 | fort nelson 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=fort nelson,ca
+Processing record of 516 | the valley 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=the valley,ai
+Processing record of 517 | kirensk 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kirensk,ru
+Processing record of 518 | coffs harbour 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coffs harbour,au
+Processing record of 519 | sarahan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sarahan,in
+Processing record of 520 | amalapuram 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=amalapuram,in
+Processing record of 521 | tabas 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tabas,ir
+Processing record of 522 | elko 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=elko,us
+Processing record of 523 | vanavara 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vanavara,ru
+Processing record of 524 | qaqortoq 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=qaqortoq,gl
+Processing record of 525 | afsin 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=afsin,tr
+Processing record of 526 | manuk mangkaw 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=manuk mangkaw,ph
+Processing record of 527 | isangel 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=isangel,vu
+Processing record of 528 | ko samui 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ko samui,th
+Processing record of 529 | key west 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=key west,us
+Processing record of 530 | borgarnes 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=borgarnes,is
+Processing record of 531 | baykit 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baykit,ru
+Processing record of 532 | phangnga 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=phangnga,th
+Processing record of 533 | tadpatri 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tadpatri,in
+Processing record of 534 | channagiri 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=channagiri,in
+Processing record of 535 | coromandel 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=coromandel,br
+Processing record of 536 | roald 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=roald,no
+Processing record of 537 | pisco 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=pisco,pe
+Processing record of 538 | santa maria 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=santa maria,cv
+Processing record of 539 | alice springs 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alice springs,au
+Processing record of 540 | atasu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=atasu,kz
+Processing record of 541 | mayor pablo lagerenza 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mayor pablo lagerenza,py
+Processing record of 542 | seoul 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=seoul,kr
+Processing record of 543 | grove city 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=grove city,us
+Processing record of 544 | san rafael 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=san rafael,ar
+Processing record of 545 | thinadhoo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=thinadhoo,mv
+Processing record of 546 | zunyi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zunyi,cn
+Processing record of 547 | uyemskiy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=uyemskiy,ru
+Processing record of 548 | svay rieng 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=svay rieng,kh
+Processing record of 549 | rio cuarto 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rio cuarto,ar
+Processing record of 550 | teacapan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=teacapan,mx
+Processing record of 551 | bayangol 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bayangol,ru
+Processing record of 552 | likasi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=likasi,cd
+Processing record of 553 | high prairie 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=high prairie,ca
+Processing record of 554 | anchorage 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=anchorage,us
+Processing record of 555 | sioux falls 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sioux falls,us
+Processing record of 556 | vestmannaeyjar 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=vestmannaeyjar,is
+Processing record of 557 | plouzane 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=plouzane,fr
+Processing record of 558 | ilek 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ilek,ru
+Processing record of 559 | beatrice 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=beatrice,us
+Processing record of 560 | chongwe 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=chongwe,zm
+Processing record of 561 | bundaberg 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=bundaberg,au
+Processing record of 562 | neiafu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=neiafu,to
+Processing record of 563 | lashma 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lashma,ru
+Processing record of 564 | dingle 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=dingle,ie
+Processing record of 565 | hervey bay 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=hervey bay,au
+Processing record of 566 | matara 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=matara,lk
+Processing record of 567 | eydhafushi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=eydhafushi,mv
+Processing record of 568 | oktyabrskoye 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=oktyabrskoye,ru
+Processing record of 569 | casma 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=casma,pe
+Processing record of 570 | rawlins 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rawlins,us
+Processing record of 571 | tacuarembo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tacuarembo,uy
+Processing record of 572 | palafrugell 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=palafrugell,es
+Processing record of 573 | paragould 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=paragould,us
+Processing record of 574 | carhuamayo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carhuamayo,pe
+Processing record of 575 | ishigaki 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=ishigaki,jp
+Processing record of 576 | barrhead 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=barrhead,ca
+Processing record of 577 | praia 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=praia,cv
+Processing record of 578 | kanniyakumari 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kanniyakumari,in
+Processing record of 579 | alexandria 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=alexandria,eg
+Processing record of 580 | zabol 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=zabol,ir
+Processing record of 581 | broken hill 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=broken hill,au
+Processing record of 582 | kabinda 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kabinda,cd
+Processing record of 583 | carnot 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=carnot,cf
+Processing record of 584 | tiarei 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=tiarei,pf
+Processing record of 585 | baruun-urt 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=baruun-urt,mn
+Processing record of 586 | mayo 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mayo,ca
+Processing record of 587 | inhambane 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=inhambane,mz
+Processing record of 588 | nichinan 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=nichinan,jp
+Processing record of 589 | mbanza-ngungu 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mbanza-ngungu,cd
+Processing record of 590 | lanzhou 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=lanzhou,cn
+Processing record of 591 | kedrovyy 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kedrovyy,ru
+Processing record of 592 | kupang 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kupang,id
+Processing record of 593 | kizukuri 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=kizukuri,jp
+Processing record of 594 | leicester 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=leicester,gb
+Processing record of 595 | sorong 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=sorong,id
+Processing record of 596 | waipawa 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=waipawa,nz
+Processing record of 597 | mandalgovi 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=mandalgovi,mn
+Processing record of 598 | rocha 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=rocha,uy
+Processing record of 599 | filingue 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=filingue,ne
+Processing record of 600 | taoudenni 
+ http://api.openweathermap.org/data/2.5/weather?APPID=8fcce71da62f06f81dd7b4ec5318540d&units=metric&q=taoudenni,ml
