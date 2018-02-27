@@ -1,0 +1,5 @@
+1.There are more cities distributed in the north of the equator than in the south of equator since more cities were found in the north using a random algorithm to choose geo-coordinates.
+
+2. Closer cities get to the equator, higher these cities' max temperatures get.
+
+3. It seems levels of humidity, cloudless, and wind speed in cities do not have an coordination with the latitudes of these cities as cities with a similar latitude show a wide range of levels of humidity, cloudless and wind speed. 
