@@ -11,4 +11,4 @@ In this homework, I use numpy to randomly generate two number as geo-coordinate 
     c.weather.csv (a record of extracted weather information for each city)
     d.all_plots.png (a png with all the scatter plots)
 
-![alt text](API_Homework/output/all_plots.png)
+![scatter plots of weather information](https://raw.githubusercontent.com/yizhiyin86/API_Homework/master/output/all_plots.png)
