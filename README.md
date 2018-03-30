@@ -301,6 +301,12 @@ plt.savefig(output_fig)
 ```
 
 
-![png](output_4_0.png)
-
 ![scatter plots of weather information](https://raw.githubusercontent.com/yizhiyin86/API_Homework/master/output/all_plots.png)
+
+Major observed trends: <br />
+1.There are more cities distributed in the north of the equator than in the south of equator since more cities were found in the north using a random algorithm to choose geo-coordinates.
+
+2.The closer cities get to the equator, the higher these cities' max temperatures get.
+
+3. It seems levels of humidity, cloudless, and wind speed in cities do not have an coordination with the latitudes of these cities as cities with a similar latitude show a wide range of levels in humidity,cloudless and wind speed. 
+
