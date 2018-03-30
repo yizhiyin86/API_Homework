@@ -1,7 +1,6 @@
-# API_Homework
-Homework for API
+# WheatherPY
 
-In this homework, I use numpy to randomly generate two number as geo-coordinate and use these randomly generated geo-coordinates to search for the nearby city by using the citipy module, as well as to extract the nearby city's country code and geo-coordinates. Then I use each city's geo-coordinates and extract its weather information from openweathermap.org API. In this way, I extracted weather information for >500 unique cities. Then I made a pandas data frame from the extracted weather information, used matplotlib to plot the value of maximum temperature, humidity %, cloudiness % and wind speed of each of these >500 cities against its latitude and draw some interesting observations.
+## This script looks into if there are any coordination between geo-coordinates and weather by examing various weather parameters of >500 randomly selected cities. I used numpy to randomly generate two number as geo-coordinate and used these randomly generated geo-coordinates to search for the nearby city by using the citipy module, as well as to extract the nearby city's country code and geo-coordinates. Then I used each city's geo-coordinates and extract its weather information from openweathermap.org API. In this way, I extracted weather information for >500 unique cities. Then I made a pandas data frame from the extracted weather information, used matplotlib to plot the value of maximum temperature, humidity %, cloudiness % and wind speed of each of these >500 cities against its latitude and draw some interesting observations.
 
 1.The observed trends are saved in the file observed_trend.txt
 
